@@ -17,7 +17,7 @@ body img {
   margin-right: auto; 
 }
 .table table, th, td{
-  width: 100%;
+  width: 50%;
   color: #32CD32;
   border: 1px solid black;
 }
