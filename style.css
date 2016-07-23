@@ -16,10 +16,10 @@ body img {
   margin-left: auto ;
   margin-right: auto; 
 }
-table table, th, td{
+.table table, th, td{
   width: 50%;
   color: #00FFFF;
-  border: .5px solid red;
+  border: 1px solid red;
 }
 .table td{
   text-align: center;
