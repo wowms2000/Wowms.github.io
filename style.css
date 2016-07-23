@@ -19,7 +19,7 @@ body img {
 table table, th, td{
   width: 50%;
   color: #00FFFF;
-  border: 1px solid red;
+  border: .5px solid red;
 }
 .table td{
   text-align: center;
