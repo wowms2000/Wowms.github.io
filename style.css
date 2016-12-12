@@ -3,6 +3,7 @@ body {
 }
 body p {
   color:  white;
+  font: 20px Arial, sans-serif;
   font-size: x-large;
 }
 body img {
